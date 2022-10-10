@@ -5,33 +5,33 @@ body{
     background-color: purple;
 }
 
-main{
+.menu{
     background-color: palegoldenrod;
     max-width: 720;
 }
 
-.Snacks{
+.snacks{
     border: small solid #FF0000;
     position: absolute;
     left: 10px;
     width: 200px;
 }
 
-.Burgers{
+.burgers{
     border: small solid #FF0000;
     position: absolute;
     right: 10px;
     width: 200px;
 }
 
-.Dishes{
+.dishes{
     border: small solid #FF0000;
     position: absolute;
     left: 10px;
     width: 200px;
 }
 
-.Desserts{
+.desserts{
     border: small solid #FF0000;
     position: absolute;
     right: 10px;
