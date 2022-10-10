@@ -26,13 +26,13 @@ body{
 }
 
 .dishes{
-    position: absolute;
+    position: relative;
     left: 10px;
     width: 200px;
 }
 
 .desserts{
-    position: absolute;
+    position: relative;
     right: 10px;
     width: 200px;
 }
