@@ -12,28 +12,28 @@ body{
 
 .Snacks{
     border: small solid #FF0000;
-    position: relative;
+    position: absolute;
     left: 10px;
     width: 200px;
 }
 
 .Burgers{
     border: small solid #FF0000;
-    position: relative;
+    position: absolute;
     right: 10px;
     width: 200px;
 }
 
 .Dishes{
     border: small solid #FF0000;
-    position: relative;
+    position: absolute;
     left: 10px;
     width: 200px;
 }
 
 .Desserts{
     border: small solid #FF0000;
-    position: relative;
+    position: absolute;
     right: 10px;
     width: 200px;
 }
