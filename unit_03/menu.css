@@ -7,7 +7,7 @@ body{
 
 .menu{
     background-color: palegoldenrod;
-    max-width: 450px;
+    width: 550px;
     margin:auto;
     padding:10px;
 }
