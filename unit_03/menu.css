@@ -9,6 +9,7 @@ body{
     background-color: palegoldenrod;
     position:relative;
     width: 550px;
+    height:800px;
     margin:auto;
     padding:10px;
 }
@@ -29,12 +30,14 @@ body{
 .dishes{
     position: absolute;
     left: 10px;
+    top: 300px;
     width: 200px;
 }
 
 .desserts{
     position: absolute;
     right: 10px;
+    top: 300px;
     width: 200px;
 }
 
