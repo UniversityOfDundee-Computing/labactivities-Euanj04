@@ -9,6 +9,7 @@ body{
     background-color: palegoldenrod;
     position:relative;
     width: 550px;
+    height: max-content;
     padding: 10px;
 }
 
