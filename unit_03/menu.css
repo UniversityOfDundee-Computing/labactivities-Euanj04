@@ -7,13 +7,12 @@ body{
 
 .menu{
     background-color: palegoldenrod;
-    max-width: 450;
+    max-width: 450px;
     margin:auto;
     padding:10px;
 }
 
 .snacks{
-    border: 2px solid #FF0000;
     background-color: aqua;
     position: absolute;
     left: 10px;
@@ -21,21 +20,18 @@ body{
 }
 
 .burgers{
-    border: small solid #FF0000;
     position: absolute;
     right: 10px;
     width: 200px;
 }
 
 .dishes{
-    border: small solid #FF0000;
     position: absolute;
     left: 10px;
     width: 200px;
 }
 
 .desserts{
-    border: small solid #FF0000;
     position: absolute;
     right: 10px;
     width: 200px;
