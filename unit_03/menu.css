@@ -8,6 +8,8 @@ body{
 .menu{
     background-color: palegoldenrod;
     max-width: 720;
+    margin:auto;
+    padding:10px;
 }
 
 .snacks{
