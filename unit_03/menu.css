@@ -14,13 +14,13 @@ body{
 
 .snacks{
     background-color: aqua;
-    position: absolute;
+    position: relative;
     left: 10px;
     width: 200px;
 }
 
 .burgers{
-    position: absolute;
+    position: relative;
     right: 10px;
     width: 200px;
 }
