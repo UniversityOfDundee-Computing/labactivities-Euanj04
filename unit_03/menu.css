@@ -17,26 +17,28 @@ body{
     background-color: aqua;
     position: absolute;
     left: 10px;
+    top: 10px;
     width: 200px;
 }
 
 .burgers{
     position: absolute;
     right: 10px;
+    top: 10px;
     width: 200px;
 }
 
 .dishes{
     position: absolute;
     left: 10px;
-    top: 300px;
+    bottom: 10px;
     width: 200px;
 }
 
 .desserts{
     position: absolute;
     right: 10px;
-    top: 300px;
+    bottom: 10px;
     width: 200px;
 }
 
