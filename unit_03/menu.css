@@ -22,6 +22,7 @@ body{
 }
 
 .burgers{
+    background-color: aqua;
     position: absolute;
     right: 10px;
     top: 10px;
@@ -29,6 +30,7 @@ body{
 }
 
 .dishes{
+    background-color: aqua;
     position: absolute;
     left: 10px;
     bottom: 10px;
@@ -36,6 +38,7 @@ body{
 }
 
 .desserts{
+    background-color: aqua;
     position: absolute;
     right: 10px;
     bottom: 10px;
