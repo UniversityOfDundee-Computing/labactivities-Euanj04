@@ -1,0 +1,16 @@
+body{
+    background-color: lightsalmon;
+}
+
+h1{
+    text-align: center;
+    size: 50px;
+}
+
+h2{
+    font-family: 'Space Mono', monospace;
+}
+
+li{
+ color:blue
+}
