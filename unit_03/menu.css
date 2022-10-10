@@ -7,13 +7,13 @@ body{
 
 .menu{
     background-color: palegoldenrod;
-    max-width: 720;
+    max-width: 450;
     margin:auto;
     padding:10px;
 }
 
 .snacks{
-    border: small solid #FF0000;
+    border: 2px solid #FF0000;
     background-color: aqua;
     position: absolute;
     left: 10px;
