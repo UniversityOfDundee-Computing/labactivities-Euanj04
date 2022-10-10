@@ -5,8 +5,9 @@ body{
     background-color: purple;
 }
 
-main{
+.menu{
     background-color: palegoldenrod;
+    position:fixed;
     width: 550px;
     margin:auto;
     padding:10px;
@@ -14,25 +15,25 @@ main{
 
 .snacks{
     background-color: aqua;
-    position: relative;
+    position: absolute;
     left: 10px;
     width: 200px;
 }
 
 .burgers{
-    position: relative;
+    position: absolute;
     right: 10px;
     width: 200px;
 }
 
 .dishes{
-    position: relative;
+    position: absolute;
     left: 10px;
     width: 200px;
 }
 
 .desserts{
-    position: relative;
+    position: absolute;
     right: 10px;
     width: 200px;
 }
