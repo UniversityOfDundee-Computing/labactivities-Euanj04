@@ -8,9 +8,9 @@ body{
 .menu{
     background-color: palegoldenrod;
     position:relative;
-    width: 550px;
-    height: 800px;
-    padding: 10px;
+    margin:auto;
+    max-width: 700px;
+    height: 500px;
 }
 
 .snacks{
@@ -18,7 +18,9 @@ body{
     position: absolute;
     left: 10px;
     top: 10px;
-    width: 200px;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
 }
 
 .burgers{
@@ -26,7 +28,9 @@ body{
     position: absolute;
     right: 10px;
     top: 10px;
-    width: 200px;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
 }
 
 .dishes{
@@ -34,7 +38,9 @@ body{
     position: absolute;
     left: 10px;
     bottom: 10px;
-    width: 200px;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
 }
 
 .desserts{
@@ -42,13 +48,27 @@ body{
     position: absolute;
     right: 10px;
     bottom: 10px;
-    width: 200px;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+footer{
+    position: static;
+    margin:auto;
 }
 
 /* Text CSS */
 h1{
     font-family: 'Nabla', cursive;
     text-align: center;
+    font-size:50px
+}
+
+h2{
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    font-size: 30px;
 }
 
 li{
